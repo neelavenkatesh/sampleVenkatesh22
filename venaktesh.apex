@@ -4,3 +4,4 @@
 <apex:pageblocktable>
 Name<apex:inputtext value="{!Name}"/>
 <apex:pageblocktable/>
+<apex:pageblock>
